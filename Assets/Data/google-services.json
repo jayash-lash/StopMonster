@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47513573386",
+    "project_id": "stopmonster-46432",
+    "storage_bucket": "stopmonster-46432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47513573386:android:2115ad7e3eca495036e7f3",
+        "android_client_info": {
+          "package_name": "com.google.firebase.stopmonster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-yW1z1fNo7Wae86DrWeJtIOL_pe0O8oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
